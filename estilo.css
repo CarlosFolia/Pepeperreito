@@ -1,0 +1,59 @@
+body {
+    background-image: url("./imagenes/background.jpg");
+    font-size: 30px;
+}
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.texto_encima{
+    position: absolute;
+    top: 100px;
+    left: 20%;
+    font-size: 100px;
+}
+#cabecera{
+    width: 99%;
+    float: right=20px;
+    height: 400px;
+}
+.izq{
+    
+} 
+.med{
+    background-color: lightblue;
+    border-style: solid;
+    border-width: 2px;
+    border-color: red; 
+    
+}
+.der{
+    
+}
+.tabla{
+    background-color: lightblue;
+    border-style: solid;
+    border-width: 2px;
+    border-color: red; 
+    
+}
+.nombre{
+    margin-top: 30px;
+    background-color: lightcoral;
+    font-size: 100px;
+    margin-left: 175px;
+    color: wheat;
+}
+.foto{
+    margin-top: 30px;
+    width: 100%;   
+}
+.sub{
+    font-weight:bold;
+}
+.imagenp{
+    size:100px;
+    margin-left:30%;
+    width:40%;
+}
